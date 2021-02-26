@@ -9,9 +9,9 @@ function Employees(name, jobtitle, salary, status){
     }
 }
 
-var employee1 = new Employees("Susan", "Nurse Manager", "10,000", "Part Time");
-var employee2 = new Employees("Marcus", "Office Manager", "70,000", "Contract");;
-var employee3 = new Employees("Michelle", "School Teacher", "15,000", "Full Time");;
+var employee1 = new Employees("Susan", "Nurse Manager", "75,000", "Part Time");
+var employee2 = new Employees();
+var employee3 = new Employees();
 
 var employee = [];
 
